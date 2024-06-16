@@ -57,7 +57,6 @@ notcoin_listing
 hamster_ai
 nft_collection_launch
 top10_global
-bitcoin_pizza_day
 ceo_21m
 hamster_daily_show
 hamster_youtube_channel
@@ -67,5 +66,4 @@ lambo_for_ceo
 consensys_piranja_pass
 partner_announce
 football_club_winner
-hamster_drop
 premarket_launch
