@@ -1,7 +1,6 @@
 influencers
 fan_tokens
 staking
-meme_coins
 shit_coins
 margin_trading_x10
 margin_trading_x20
@@ -46,7 +45,6 @@ villa_for_dev_team
 long_squeeze
 success_with_tucker
 forbes
-two_chairs
 short_squeeze
 special_hamster_conference
 contract_with_football_club
@@ -63,7 +61,6 @@ hamster_youtube_channel
 hamster_youtube_gold_button
 web3_academy_launch
 lambo_for_ceo
-consensys_piranja_pass
 partner_announce
 football_club_winner
 premarket_launch
