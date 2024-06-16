@@ -29,7 +29,6 @@ web3_integration
 dao
 p2p_trading
 trading_bots
-kyc
 kyb
 legal_opinion
 sec_transparancy
