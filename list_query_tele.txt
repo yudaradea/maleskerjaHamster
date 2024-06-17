@@ -18,3 +18,6 @@ query_id=AAEiITUEAwAAACIhNQTG-r3j&user=%7B%22id%22%3A6513041698%2C%22first_name%
 
 //akunk2vidy
 query_id=AAFHw6AyAwAAAEfDoDL9s4Ec&user=%7B%22id%22%3A7291847495%2C%22first_name%22%3A%22AKUKE_2%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718609542&hash=beba8812b19e26336de4e0d9e76d5d53b114949126939b2c8c1d505c8b7ef674
+
+//aradeayuda
+query_id=AAEpS9A4AwAAAClL0DiLfbJy&user=%7B%22id%22%3A7395625769%2C%22first_name%22%3A%22Aradea%22%2C%22last_name%22%3A%22Yuda%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718617610&hash=9596752b81bb05ffa53cb50a82c0dcc51e9569bbb987754e2403b6da00369b44
