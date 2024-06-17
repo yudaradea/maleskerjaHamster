@@ -21,3 +21,18 @@ query_id=AAFHw6AyAwAAAEfDoDL9s4Ec&user=%7B%22id%22%3A7291847495%2C%22first_name%
 
 //aradeayuda
 query_id=AAEpS9A4AwAAAClL0DiLfbJy&user=%7B%22id%22%3A7395625769%2C%22first_name%22%3A%22Aradea%22%2C%22last_name%22%3A%22Yuda%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718617610&hash=9596752b81bb05ffa53cb50a82c0dcc51e9569bbb987754e2403b6da00369b44
+
+//basudalea
+query_id=AAF0om42AwAAAHSibjbx0gys&user=%7B%22id%22%3A7355671156%2C%22first_name%22%3A%22Basuda%22%2C%22last_name%22%3A%22Lea%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718641526&hash=21dbe125d3cb654c00c28d1d1b67ed8e174b4b7d145d0c2ab0e0a7f3ef056c32
+
+//yasudahlah
+query_id=AAELhEgQAwAAAAuESBBdDVbL&user=%7B%22id%22%3A6715638795%2C%22first_name%22%3A%22Yasudah%22%2C%22last_name%22%3A%22Lah%22%2C%22username%22%3A%22yasudahlahyah%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718641696&hash=b67085bdcb2626bdce505bfc90125eb52bcb041acb1a7a0c33edd0425e341844
+
+//aprilku
+query_id=AAEB6M88AwAAAAHozzwRQRdL&user=%7B%22id%22%3A7462709249%2C%22first_name%22%3A%22Aprilku%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22aprilkuguys%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718641864&hash=b9ccdad0df675aa56f6a0582c0b707f2a52fc60151bd68476300b42f1f3ebdea
+
+//aprilsayang
+query_id=AAH8NA45AwAAAPw0DjmwjyhJ&user=%7B%22id%22%3A7399683324%2C%22first_name%22%3A%22April%22%2C%22last_name%22%3A%22Sayang%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718641966&hash=2294819222b53cddbb8a73288081f2dbcdaed3c9d7d4394a7b25f13041e26bf5
+
+//aprilakuh
+query_id=AAGDL7clAwAAAIMvtyUwp1_g&user=%7B%22id%22%3A7075213187%2C%22first_name%22%3A%22Aprilakuh%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718642168&hash=61b41bd4dd30a202d08e1a8ab57f43381d8ee3a962766948d289fc02b82ec469
