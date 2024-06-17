@@ -20,16 +20,9 @@ licence_australia
 licence_north_america
 licence_japan
 licence_ethiopia
-it_team
-ux_ui_team
-security_team
-qa_team
-risk_management_team
-anonymous_transactions_ban
-blocking_suspicious_accounts
 tokenomics_expert
 consensys_explorer_pass
-money_20_20
+vc_labs
 usdt_on_ton
 blockchain_life_2024
 save_hamsters_from_drowning
