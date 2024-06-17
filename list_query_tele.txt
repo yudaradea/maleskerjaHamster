@@ -1,0 +1,17 @@
+//Yuda
+query_id=AAELT2BCAAAAAAtPYEIN4Wzg&user=%7B%22id%22%3A1113607947%2C%22first_name%22%3A%22Yuda%22%2C%22last_name%22%3A%22Aradea%22%2C%22username%22%3A%22yudaaradea%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718438767&hash=1a9a09e8bd4144f0299595362c98890e3e9d6ece16155732f9c178c5842c7986
+
+//Barbusal / sukafrozen
+query_id=AAGGzcQyAwAAAIbNxDLFDDae&user=%7B%22id%22%3A7294209414%2C%22first_name%22%3A%22Barbudal%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718441978&hash=dfe11c99239e137ddb5b2fd120479efb0ecf71d3393230fd7b5ba0f1f7e3288b
+
+//Eka Jatmika
+query_id=AAFHeb4zAwAAAEd5vjMozcm3&user=%7B%22id%22%3A7310571847%2C%22first_name%22%3A%22Eka%22%2C%22last_name%22%3A%22Jatmika%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718469502&hash=8c3dcdcea472038a9dbe4b6c8935debc95062e99227b9335a267fdacbcee886e
+
+//vidy
+query_id=AAEQbXMcAwAAABBtcxxzLxkb&user=%7B%22id%22%3A6919777552%2C%22first_name%22%3A%22Vidy%22%2C%22last_name%22%3A%22Darmawan%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718471774&hash=f338328cbde3bcad9294152b407e4dbce0e1f07fff952f7d669fdfcf0c124abf
+
+//Radesa
+query_id=AAG6o5g3AwAAALqjmDeu7SMI&user=%7B%22id%22%3A7375201210%2C%22first_name%22%3A%22Rades%22%2C%22last_name%22%3A%22Tama%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718588546&hash=e73bd86d227f0f3b6cd1d6bf8edf113f41d6df3a1063174ffc25568db67754cb
+
+//Deva
+query_id=AAEiITUEAwAAACIhNQTG-r3j&user=%7B%22id%22%3A6513041698%2C%22first_name%22%3A%22Dev%22%2C%22last_name%22%3A%22.%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718588648&hash=db62aabd8a79eca2207735642fbdccc11b10e56db5b6c360862ecc2678387dfc
