@@ -15,13 +15,9 @@ dao
 p2p_trading
 trading_bots
 anti_money_loundering
-licence_uae
 licence_europe
-licence_asia
-licence_south_america
 licence_australia
 licence_north_america
-licence_nigeria
 licence_japan
 licence_ethiopia
 it_team
@@ -64,3 +60,5 @@ lambo_for_ceo
 partner_announce
 football_club_winner
 premarket_launch
+consensys_piranja_pass
+two_chairs
