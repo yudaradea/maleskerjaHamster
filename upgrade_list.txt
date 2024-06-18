@@ -2,7 +2,6 @@ influencers
 fan_tokens
 staking
 shit_coins
-margin_trading_x10
 margin_trading_x20
 margin_trading_x30
 margin_trading_x50
@@ -20,6 +19,7 @@ licence_australia
 licence_north_america
 licence_japan
 licence_ethiopia
+licence_india
 tokenomics_expert
 consensys_explorer_pass
 vc_labs
